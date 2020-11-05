@@ -1,0 +1,73 @@
+body, html{
+	height: 100%;
+	margin: 0;
+	background-color: 	rgb(237, 197, 148);
+}
+.bg{
+	background-image: url("https://p.kindpng.com/picc/s/689-6890945_dog-paw-stencil-download-free-cat-paw-print.png");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.headerpart{
+	text-align: center;
+	color: black;
+	font-family:courier,arial,helvetica;
+	font-size: 40px;
+}
+.customhorizontalline{
+	border-top: 2px solid black;
+}
+.tables{
+	background-color: rgb(237, 197, 148);
+	font-size:28px;
+	color: brown;
+	vertical-align: text-bottom;
+}
+img.divforimages{
+	position: absolute;
+	left: 600px;
+	padding: 1px;
+	bottom: 100px; 
+}
+h1.divfortext{
+	display: block;
+	text-align: center;
+	padding: 15px;
+	font-size:30px;
+	font-family: courier,arial,helvetica;
+}
+
+ul.allign_bottom{
+	position: absolute;
+	bottom: 0; 
+	left: 0;
+	width: 150px;
+}
+h1.allign_bottom_right{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 28px;
+
+}
+h1.aboutus{
+	position: absolute;
+	top: 150px;
+	left: 500px;
+
+	font-family: "Times New Roman", Times, serif;
+	font-size:28px;
+}
+h1.contact{
+	position: absolute;
+	top: 225px;
+	left: 700px;
+	font-size: 30px;
+	font-family: courier,arial,helvetica;
+	padding: 3px;
+
+}
